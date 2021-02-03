@@ -1,0 +1,40 @@
+{
+  "scorptec": [
+    {
+      "vendor": "Seagate",
+      "size_string": "8TB",
+      "size_int": 8,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/77514-st8000vn004"
+    },
+    {
+      "vendor": "Seagate",
+      "size_string": "10TB",
+      "size_int": 10,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/77512-st10000vn0008"
+    },
+    {
+      "vendor": "Seagate",
+      "size_string": "12TB",
+      "size_int": 12,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/76820-st12000vn0008"
+    },
+    {
+      "vendor": "Seagate",
+      "size_string": "14TB",
+      "size_int": 14,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/74088-st14000ne0008"
+    },
+    {
+      "vendor": "Seagate",
+      "size_string": "16TB",
+      "size_int": 16,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/77610-st16000ne000"
+    },
+    {
+      "vendor": "Seagate",
+      "size_string": "18TB",
+      "size_int": 18,
+      "url": "https://www.scorptec.com.au/product/hard-drives-&-ssds/hdd-3.5-drives/85058-st18000ne000"
+    }
+  ]
+}
